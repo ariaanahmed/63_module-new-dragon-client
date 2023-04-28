@@ -31,3 +31,12 @@ react Marquee > npm install react-fast-marquee --save + import Marquee from "rea
 react bootstrap > Components > navbar > Responsive behaviors
 
 color change of navabar > Color schemes > <Navbar bg="light" variant="light">
+
+
+62-6 Implement Right Side Component and react ions
+
+react icons > npm install react-icons --save + import { FaBeer } from 'react-icons/fa';
+
+https://react-bootstrap.github.io/components/list-group/
+
+62-7 Install node-express and run your server
