@@ -1,3 +1,15 @@
 63-1 Recap and Route and new layout setup
 
 category.jsx > useParams > https://reactrouter.com/en/main/hooks/use-params
+
+63-2 Create News and category data loading API
+
+63-3 Load news category data from server
+
+63-4 Style News Card Component and React Ratings
+
+https://github.com/dreyescat/react-rating > npm install --save react-rating (eta client site e install krte hobe) > http://dreyescat.github.io/react-rating/
+
+63-5 Display News Details and editors insights
+
+07:22

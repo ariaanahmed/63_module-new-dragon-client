@@ -19,7 +19,7 @@ const App = () => {
 
           {/*----------------- main seciton -------*/}
           <Col lg={6}>
-            <Outlet></Outlet>
+            <Outlet/>
           </Col>
 
           {/*---------------- right navbar ---------*/}
