@@ -12,4 +12,8 @@ https://github.com/dreyescat/react-rating > npm install --save react-rating (eta
 
 63-5 Display News Details and editors insights
 
-07:22
+63-6 Set Auth Context and Auth Provider to share auth info
+
+63-7 Create Login Layout for Login and Registration Route
+
+63-8 Login and Register Form and Module Summary
