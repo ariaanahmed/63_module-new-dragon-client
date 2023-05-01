@@ -38,3 +38,18 @@ steps: 1. check user is logged in or not
 vite environment variable - google
 
 package.json er sathe .env.local
+
+64-7 Deploy Server to vercel with vercel config
+
+for larger application  - aws, digital ocean, achure etc.
+
+for small application - vercel, vercel CLI
+
+vercel node express js deploy vercel configuration
+
+
+64-8 Client side code with api url update and React Rating
+
+Live link: https://dragon-news-projects-a4711.web.app
+
+react awesome Components - google 
