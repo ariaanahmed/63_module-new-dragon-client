@@ -52,4 +52,10 @@ vercel node express js deploy vercel configuration
 
 Live link: https://dragon-news-projects-a4711.web.app
 
-react awesome Components - google 
+react awesome Components > star-rating > 
+
+npm i @smastrom/react-rating
+
+import { Rating } from '@smastrom/react-rating'
+
+import '@smastrom/react-rating/style.css'
