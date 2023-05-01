@@ -31,11 +31,12 @@ const NewsCard = ({ news }) => {
                 </Card.Text>
             </Card.Body>
             <Card.Footer className="text-muted d-flex">
-                <div className='flex-grow-1'>
-
-                <Rating style={{ maxWidth: 250 }} value={rating} readOnly />
-
-                    {rating?.number}
+                <div className='flex-grow-1 d-flex align-items-center gap-2'>
+                    <Rating
+                        style={{ maxWidth: 100 }}
+                        value={rating?.number}
+                        readOnly />
+                    <span>{rating?.number}</span>
                 </div>
                 <div>
                     <FaEye></FaEye> {total_view}
