@@ -17,3 +17,18 @@ https://github.com/dreyescat/react-rating > npm install --save react-rating (eta
 63-7 Create Login Layout for Login and Registration Route
 
 63-8 Login and Register Form and Module Summary
+--------------------------------------------------
+64-1 Recap Route and get registration data
+
+64-2 Recap Registration and Login
+
+64-3 Observe onAuthStateChange and log out
+
+steps: 1. check user is logged in or not
+2. if user is logged in then allow them to visite the route.
+3. else redirect the user to login page
+4. setup the private router
+
+64-4 Create Private Route and redirect from the login page
+
+64-5 Private Route Fix Reload and Accept Terms and conditions
