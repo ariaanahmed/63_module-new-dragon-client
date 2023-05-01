@@ -32,3 +32,9 @@ steps: 1. check user is logged in or not
 64-4 Create Private Route and redirect from the login page
 
 64-5 Private Route Fix Reload and Accept Terms and conditions
+
+64-6 Environment variable for Firebase in Create React App
+
+vite environment variable - google
+
+package.json er sathe .env.local
